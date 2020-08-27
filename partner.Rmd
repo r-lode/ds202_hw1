@@ -1,0 +1,18 @@
+---
+title: "partner"
+author: "Taylor Turner"
+date: "8/27/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+1. Taylor Turner - taylorjeanturner
+
+2. The most recent commit was "Initial commit" and the commit ID was 2384bda2fecce4397fdf69595487cee49a862cb0
+
+3. The error I had in knitting his file was that the image was not found in the resource path.
+
+4. I think this is more of a personal thing, but I need to work on remembering all the git commands
